@@ -1,8 +1,8 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
-<h3>AIM:</h3>
+
 <h3>ENTER YOUR NAME : SHOBIKA P</h3>
 <h3>ENTER YOUR REGISTER NO : 212221230096</h3>
-<h3>EX. NO</h3>
+<h3>EX. NO : 5</h3>
 <h3>DATE</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
@@ -201,11 +201,11 @@ int main()
 !nvprof --print-gpu-trace ./matmul
 ```
 ## OUTPUT:
-![Screenshot 2024-05-10 134038](https://github.com/Shobika187/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/94508142/99b06f08-e9ee-49b8-a45f-19179e7d36a7)
-
-![Screenshot 2024-05-10 134012](https://github.com/Shobika187/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/94508142/c74f50f0-89bd-4bac-acf6-60765ef1d855)
 
 ![Screenshot 2024-05-10 134021](https://github.com/Shobika187/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/94508142/43c3f60c-2b49-4ca1-8cea-d9c8b6cd2b4d)
 
+![Screenshot 2024-05-10 134012](https://github.com/Shobika187/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/94508142/c74f50f0-89bd-4bac-acf6-60765ef1d855)
+
+![Screenshot 2024-05-10 134038](https://github.com/Shobika187/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/94508142/99b06f08-e9ee-49b8-a45f-19179e7d36a7)
 ## RESULT:
 Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000211 sec and host took 0.000216 sec.
